@@ -12,3 +12,5 @@ minus.onclick = () => {
     let sum = Number(firstNumber.value) - Number(secondNumber.value);
     result.textContent = sum;
 }
+
+console.log('hello world');
